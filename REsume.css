@@ -1,0 +1,138 @@
+h1.name{font-size:100px;color:white;padding-top:5px;padding-bottom:5px;text-align:center;text-shadow:0 2px rgba(0,0,0,.2)}
+
+
+
+h2.details{font-size:50px;color:white;text-align:center;text-shadow:0 2px rgba(0,0,0,.2)}
+
+
+p.more-details{font-size:22px;color:rgba(255,255,255,.549);text-align:center;text-shadow:0 2px rgba(0,0,0,.2)}
+
+/*----About me-----*/
+
+.title{font-size:80px;font-weight:100;margin-bottom:30px;}
+
+
+.text{font-size:20px;font-weight:400;}
+
+
+.my-extrame{background-color:#F9F9F9;padding-top:50px;padding-bottom:50px;margin-top:50px;margin-bottom:50px}
+
+/*----More about me and my life-----*/
+
+h3.title-three{ font-size:40px; text-align:center}
+
+.text-three{
+    text-align: center;
+    font-size: 19px;
+    padding-bottom: 40px;
+}
+
+.text-rd{
+    font-size:19px
+}
+
+
+.mywhite{text-align:center}
+
+/*----Skills-----*/
+.bg-skills{background:url(Andrey%20Marin%20-%20Resume%20CV%20with%20MyWALL_files/pexels-3.jpg);background-size:cover;opacity:100px}
+
+.S_title{font-size:80px;font-weight:100;margin-bottom:30px;text-align:center}
+
+
+.S_text{font-size:20px;font-weight:400;}
+
+.separ{font-size:20px;}
+
+
+/*----My Interest-----*/
+
+.services {
+    background: url(pexels-2.jpg)no-repeat center 0px fixed;
+    background-size: cover;
+}
+.title-four{ font-size:40px; text-align:center
+}
+.w3agile-servs-img {
+    width: 100%;height: 200px;margin: 0px 0;text-align: center;border: 5px solid  #999;-webkit-transition: all 0.3s;-moz-transition: all 0.3s;-o-transition: all 0.3s;-ms-transition: all 0.3s;transition: all 0.3s;background: black;
+}
+.w3agile-servs-img:hover {
+    border-color: #FFFFFF;
+}
+.w3agile-servs-img .icon-holder {
+    position: relative;
+    top: 63px;
+    display: inline-block;
+    margin-bottom: 1em;
+    -webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+    transition: all 0.3s;
+    border-radius: 100%;
+    color: #FFFFFF;
+    font-size: 3em;
+}
+.w3agile-servs-img .mission {
+    position: relative;
+    top: 57px;
+    -webkit-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+	-moz-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+	-ms-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+	-o-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    color: #FFFFFF;
+    font-size: 2em;
+    opacity: 0;
+}
+.w3agile-servs-img .description {
+    width: 80%;
+    margin: 0 auto;
+    opacity: 0;
+    -webkit-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+	-moz-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+	-o-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+	-ms-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    -webkit-transform: scale(0);
+	-moz-transform: scale(0);
+	-o-transform: scale(0);
+    -ms-transform: scale(0); 
+    transform: scale(0);
+    color: #FFFFFF;
+}
+.w3agile-servs-img:hover .icon-holder {
+    top: 30px;
+}
+.w3agile-servs-img:hover .mission {
+    top: -10px;
+    opacity: 1;
+}
+.w3agile-servs-img:hover .description {
+    opacity: 1;
+    -webkit-transform: scale(1);
+	-moz-transform: scale(1);
+    -ms-transform: scale(1);
+	-o-transform: scale(1); 
+    transform: scale(1);
+}
+
+/*----Education-----*/
+.col-md-6 {
+            border: 0px red solid;
+        }
+
+.card:hover {
+            box-shadow: 5px 5px 10px gray;
+            transition: ease all 0.5s;
+        }
+
+.wall-gallery {
+    
+    height: 300px;
+    border: 0px red solid;
+    margin: 10px;
+}
+.col-md-4 {
+            border: 0px red solid;
+        }
